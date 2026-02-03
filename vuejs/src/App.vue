@@ -9,3 +9,6 @@
 </template>
 
 <style scoped></style>
+<style>
+/* Ensure no scoped styles are overriding here */
+</style>
