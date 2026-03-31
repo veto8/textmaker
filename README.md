@@ -2,6 +2,8 @@
 
 TextMaker is a JavaScript project that allows you to sample and combine text lines from up to five columns of data. It's designed to help generate variations of text based on a structured input.
 
+
+
 ## Features
 
 *   **Multi-Column Input:** Accepts data organized in up to five columns.
@@ -15,6 +17,10 @@ TextMaker is a JavaScript project that allows you to sample and combine text lin
 **Check out the live demo here:** [https://textmaker.myridia.com](https://textmaker.myridia.com)
 
 The demo allows you to experiment with different input data and see how TextMaker generates text in real-time.  You can directly edit the data in the table and click the "Generate" button to see the results.  This is the easiest way to understand how TextMaker works.  The demo also showcases the ability to save and load data from local storage.
+
+## How it works
+# ![How it works](pages/public/img/demo.png) 
+
 
 ## Installation
 
