@@ -19,7 +19,7 @@ TextMaker is a JavaScript project that allows you to sample and combine text lin
 The demo allows you to experiment with different input data and see how TextMaker generates text in real-time.  You can directly edit the data in the table and click the "Generate" button to see the results.  This is the easiest way to understand how TextMaker works.  The demo also showcases the ability to save and load data from local storage.
 
 ## How it works
-# ![How it works](pages/public/img/demo.png) 
+# ![How it works](pages/public/img/demo.gif) 
 
 
 ## Installation
